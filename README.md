@@ -1,3 +1,5 @@
+
+
 # markdown-training
 
 Learning Markdow
@@ -30,8 +32,8 @@ SECOND paragraph
 
 
 
-*This is italics
-**THis is bold
+*This is italic*
+**THis is bol**
 
 
 
